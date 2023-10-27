@@ -3,7 +3,7 @@
 #include<conio.h>
 int main()
 {
-    printf("hello");
+    
  system("cls");
     getch();
     return 0;
