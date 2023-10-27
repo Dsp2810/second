@@ -3,7 +3,8 @@
 #include<conio.h>
 int main()
 {
-    
+  int n;  
+  char x;
  system("cls");
     getch();
     return 0;
